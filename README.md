@@ -1,5 +1,4 @@
 # Spin-Cycle
-Spin to win
 Done By: Mohamed Abdelwaood, Marcus Underwood, James Moon
 
 # Play
